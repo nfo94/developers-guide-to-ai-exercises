@@ -4,7 +4,7 @@ Using a local Ollama 0.32.5. Run the backend:
 node server.mjs
 ```
 
-Run the and frontend:
+Run the frontend:
 
 ```bash
 npm run dev
